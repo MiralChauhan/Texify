@@ -29,7 +29,7 @@ export default function About() {
     <>
       <div className="container my-4" style={myStyle}>
         <h1 className="my-3">
-          About <span className="text-primary">Textify</span>
+          Abouttttttttttt <span className="text-primary">Textify</span>
         </h1>
 
         <div className="card my-2" style={myStyle}>
